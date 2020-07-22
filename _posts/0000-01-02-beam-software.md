@@ -2,5 +2,5 @@
 layout: slide
 tidle: "Welcomd to our second slide!"
 ---
-Your text
+This is the text that I want to display.
 Use the left arrow to go back!
